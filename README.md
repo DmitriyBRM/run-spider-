@@ -1,7 +1,7 @@
 # run-spider-
 runner game on python
 
-1. Клонирование репозитория ```git clone ```
+1. Клонирование репозитория ```git clone https://github.com/DmitriyBRM/run-spider-```
 2. переход в директорию spider
    ```cd spider```
 4. создание виртуального окружения
